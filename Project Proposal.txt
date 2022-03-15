@@ -10,5 +10,6 @@ Data provides list of titles and their rank by country. Does not include any oth
 Netflix Titles:
 Data set provides list of over 8800 Netflix TV shows and Movies and includes information such as directors and cast.
 
-Project will be to combine the two data sets for potential analysis e.g. most popular directors per country or actors etc.
+Project will be to combine the two data sets for potential analysis e.g. most popular directors per country, film rating data, runtime etc.
+
 
